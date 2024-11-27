@@ -84,7 +84,7 @@ An example dataset (Diabetes dataset) is included in the app for demonstration p
 
 ## Author
 
-Developed by **Mohammad Rasoul Sahibz**. For more information, visit [AUAF](https://auaf.edu.af/).
+Developed by **Muhammad Rasoul Sahibzadah**. For more information, visit [AUAF](https://auaf.edu.af/).
 
 ---
 
@@ -92,9 +92,6 @@ Developed by **Mohammad Rasoul Sahibz**. For more information, visit [AUAF](http
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
----
 
 ### **Additional Notes**
 - Update the placeholder `yourusername/your-repo-name` with the actual GitHub repository URL if hosting the project on GitHub.
