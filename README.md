@@ -2,6 +2,19 @@
 
 
 # Machine Learning Hyperparameter Optimization App (Regression Edition)
+### Link: 🚀 Excited to Share My Latest Project: Machine Learning Hyperparameter Optimization App 🤖
+
+I’m thrilled to announce the launch of my Machine Learning Hyperparameter Optimization App, designed to help data scientists and machine learning enthusiasts quickly fine-tune models and optimize hyperparameters for better performance.
+
+Key Features: 🔍 Random Forest Regressor to predict continuous variables. ⚙️ Hyperparameter Tuning via GridSearchCV to improve model performance. 📊 Interactive Data Visualizations with Plotly to analyze model metrics. 📈 CSV File Upload and model building made easy. 💾 Downloadable Model Performance Results in CSV format.
+
+Feel free to explore the app, test it out with your own datasets, and optimize machine learning models with ease. 🔧
+
+Check it out here: https://machinelearninghyperparameteroptimizationapp-kzer9i7m9aopvizdp.streamlit.app/
+
+#MachineLearning #DataScience #AI #ArtificialIntelligence #DataVisualization #Streamlit #Python #DataScienceProjects
+
+
 
 This Streamlit application allows users to perform hyperparameter tuning for a regression model using the **Random Forest** algorithm. The app provides an interactive interface to upload datasets, set hyperparameters, and visualize the model's performance.
 
